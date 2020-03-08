@@ -5,6 +5,6 @@ ResNet-50 is a convolutional neural network that is trained on more than a milli
 
 visit https://in.mathworks.com/help/deeplearning/ref/resnet50.html for more information.
 
-image links
-  fountainpen: https://images-na.ssl-images-amazon.com/images/I/41hjK1ALseL._SL1207_.jpg
+image links </br>
+  fountainpen: https://images-na.ssl-images-amazon.com/images/I/41hjK1ALseL._SL1207_.jpg </br>
   keyboardmouse: https://images-na.ssl-images-amazon.com/images/I/413Tf4yeOnL._SX450_.jpg
