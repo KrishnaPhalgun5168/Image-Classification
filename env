@@ -1,0 +1,2 @@
+pip3 install numpy==1.18.1
+pip3 install Keras==2.3.1
