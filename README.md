@@ -6,7 +6,7 @@ ResNet-50 is a convolutional neural network that is trained on more than a milli
 visit https://in.mathworks.com/help/deeplearning/ref/resnet50.html for more information.
 
 Input: </br>
-![image]https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/fountainpen.jpg
+![image](https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/fountainpen.jpg) </br>
 Output: </br>
 prediction: fountain_pen with confidence: 0.9429373 </br>
 </br>
