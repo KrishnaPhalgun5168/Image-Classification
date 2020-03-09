@@ -8,6 +8,7 @@ visit https://in.mathworks.com/help/deeplearning/ref/resnet50.html for more info
 Input: </br>
 ![image](https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/fountainpen.jpg) </br>
 Output: </br>
+</br>
 prediction: fountain_pen with confidence: 0.9429373 </br>
 </br>
 prediction: ballpoint with confidence: 0.027497167 </br>
