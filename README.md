@@ -7,7 +7,7 @@ visit https://in.mathworks.com/help/deeplearning/ref/resnet50.html for more info
 
 </br>
 Input Image:
-!(input)(https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/test.jpg)
+![input](https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/test.jpg)
 </br>
 Output:
 </br>
