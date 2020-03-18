@@ -8,7 +8,7 @@ visit https://in.mathworks.com/help/deeplearning/ref/resnet50.html for more info
 </br>
 Input Image:
 </br>
-![test](https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/test.jpg)
+![input](https://github.com/KrishnaPhalgun5168/Image-Classification/blob/master/test.jpg)
 </br>
 Output:
 </br>
@@ -21,4 +21,3 @@ prediction: Airedale with confidence: 0.001774385
 prediction: marmot with confidence: 0.00084891805
 </br>
 prediction: hyena with confidence: 0.0006365753
-</br>
