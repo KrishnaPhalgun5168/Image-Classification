@@ -12,5 +12,4 @@ def classify(path=None):
 		for label in predictions:
 			print("prediction: {} with confidence: {}\n".format(label[1], label[2]))
 
-classify('fountainpen.jpg')
-#classify('keyboardmouse.jpg')
+classify('test.jpg')
